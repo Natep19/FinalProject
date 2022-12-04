@@ -1,0 +1,35 @@
+h1 {
+  color:darkred;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: darkred;
+}
+a:hover {
+    color:white;
+    text-decoration:none;
+}
+a:active {
+  color:turquoise
+}
+
+  th {
+    font-size:20px;
+    text-align: center;
+    color:red;
+    font: italic small-caps bold 12px/30px Georgia, serif;
+    border: 4px white solid;
+  }
+  td {
+    font-size:15px;
+    text-align: center;
+    color:black; 
+    font: impact;
+    border: 2px red solid;
+  }
+  table {
+border: 1px black solid;
+background-color:pink;
+  }

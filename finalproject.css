@@ -1,0 +1,31 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #282930;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+  background-color: #f5f0f0;
+}
+.navbar-brand {
+  font-family: 'Open Sans';
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+.navbar-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2 rem;
+  color:#ffffff;
+}

@@ -1,0 +1,69 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+body {
+  background-color: #282930;
+  font-family: 'Roboto', sans-serif;
+  background-image: url(images/dicebackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+img {
+  width: 80%;
+  background-color: #9015b6;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+.icon {
+  color: #9015b6;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color:#ff0000
+}
+
+.insert {
+  color:#ff0000;
+}
+
+.myBtn {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
